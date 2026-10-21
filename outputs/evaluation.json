@@ -1,0 +1,144 @@
+{
+  "summary": {
+    "expected_rows": 43,
+    "predicted_rows": 43,
+    "matched_rows": 43,
+    "label_exact_rows": 43,
+    "missing_rows": [],
+    "extra_rows": [],
+    "duplicated_gt_rows": [],
+    "duplicated_pred_rows": [],
+    "expected_value_cells": 74,
+    "exact_matching_cells": 74,
+    "numeric_parsing_failures": 0,
+    "structural_mismatches": 0
+  },
+  "metrics": {
+    "row_label_accuracy": 1.0,
+    "raw_string_accuracy": 1.0,
+    "numeric_accuracy": 1.0,
+    "cell_exact_match_accuracy": 1.0,
+    "row_detection_precision": 1.0,
+    "row_detection_recall": 1.0,
+    "row_detection_f1": 1.0,
+    "depth_accuracy": 1.0,
+    "parent_child_accuracy": 1.0,
+    "row_type_accuracy": 1.0,
+    "ordering_accuracy": 1.0,
+    "column_set_match": true
+  },
+  "arithmetic": {
+    "warnings": [
+      {
+        "row_index": 12,
+        "label": "流動資産合計",
+        "column": "previous_year",
+        "check": "mismatch",
+        "expected": 5863681,
+        "actual": 5863684,
+        "diff": 3
+      },
+      {
+        "row_index": 29,
+        "label": "有形固定資産合計",
+        "column": "previous_year",
+        "check": "mismatch",
+        "expected": 1429093,
+        "actual": 1429094,
+        "diff": 1
+      },
+      {
+        "row_index": 33,
+        "label": "無形固定資産合計",
+        "column": "previous_year",
+        "check": "mismatch",
+        "expected": 44260,
+        "actual": 44261,
+        "diff": 1
+      },
+      {
+        "row_index": 40,
+        "label": "投資その他の資産合計",
+        "column": "previous_year",
+        "check": "mismatch",
+        "expected": 197068,
+        "actual": 197069,
+        "diff": 1
+      },
+      {
+        "row_index": 41,
+        "label": "固定資産合計",
+        "column": "previous_year",
+        "check": "mismatch",
+        "expected": 1670421,
+        "actual": 1670426,
+        "diff": 5
+      },
+      {
+        "row_index": 42,
+        "label": "資産合計",
+        "column": "previous_year",
+        "check": "mismatch",
+        "expected": 7534102,
+        "actual": 7534110,
+        "diff": 8
+      },
+      {
+        "row_index": 12,
+        "label": "流動資産合計",
+        "column": "current_year",
+        "check": "mismatch",
+        "expected": 3377405,
+        "actual": 3377407,
+        "diff": 2
+      },
+      {
+        "row_index": 29,
+        "label": "有形固定資産合計",
+        "column": "current_year",
+        "check": "mismatch",
+        "expected": 1352607,
+        "actual": 1352610,
+        "diff": 3
+      },
+      {
+        "row_index": 33,
+        "label": "無形固定資産合計",
+        "column": "current_year",
+        "check": "mismatch",
+        "expected": 35868,
+        "actual": 35869,
+        "diff": 1
+      },
+      {
+        "row_index": 40,
+        "label": "投資その他の資産合計",
+        "column": "current_year",
+        "check": "mismatch",
+        "expected": 369361,
+        "actual": 369362,
+        "diff": 1
+      },
+      {
+        "row_index": 41,
+        "label": "固定資産合計",
+        "column": "current_year",
+        "check": "mismatch",
+        "expected": 1757836,
+        "actual": 1757841,
+        "diff": 5
+      },
+      {
+        "row_index": 42,
+        "label": "資産合計",
+        "column": "current_year",
+        "check": "mismatch",
+        "expected": 5135241,
+        "actual": 5135249,
+        "diff": 8
+      }
+    ],
+    "count": 12
+  },
+  "mismatches": []
+}

@@ -1,0 +1,1383 @@
+{
+  "document": {
+    "source_file": "balance_sheet_after_correction.pdf",
+    "document_type": "consolidated_balance_sheet",
+    "language": "ja",
+    "unit": "千円",
+    "page_count": 1,
+    "pages": [
+      1
+    ],
+    "columns": [
+      {
+        "id": "previous_year",
+        "label": "前連結会計年度",
+        "date": "2025-03-31"
+      },
+      {
+        "id": "current_year",
+        "label": "当連結会計年度",
+        "date": "2026-03-31"
+      }
+    ]
+  },
+  "rows": [
+    {
+      "id": "row_0",
+      "row_index": 0,
+      "label": "資産の部",
+      "label_en": null,
+      "depth": 0,
+      "row_type": "section",
+      "parent_id": null,
+      "parent_label": null,
+      "source": {
+        "page": 1,
+        "y": 148.2689971923828,
+        "x0": 62.279998779296875
+      },
+      "values": {
+        "previous_year": {
+          "raw": null,
+          "value": null,
+          "is_negative": false,
+          "parse_status": "empty"
+        },
+        "current_year": {
+          "raw": null,
+          "value": null,
+          "is_negative": false,
+          "parse_status": "empty"
+        }
+      }
+    },
+    {
+      "id": "row_1",
+      "row_index": 1,
+      "label": "流動資産",
+      "label_en": null,
+      "depth": 1,
+      "row_type": "subsection",
+      "parent_id": "row_0",
+      "parent_label": "資産の部",
+      "source": {
+        "page": 1,
+        "y": 160.2689971923828,
+        "x0": 75.23999786376953
+      },
+      "values": {
+        "previous_year": {
+          "raw": null,
+          "value": null,
+          "is_negative": false,
+          "parse_status": "empty"
+        },
+        "current_year": {
+          "raw": null,
+          "value": null,
+          "is_negative": false,
+          "parse_status": "empty"
+        }
+      }
+    },
+    {
+      "id": "row_2",
+      "row_index": 2,
+      "label": "現金及び預金",
+      "label_en": null,
+      "depth": 2,
+      "row_type": "detail",
+      "parent_id": "row_1",
+      "parent_label": "流動資産",
+      "source": {
+        "page": 1,
+        "y": 172.2689971923828,
+        "x0": 88.19999694824219
+      },
+      "values": {
+        "previous_year": {
+          "raw": "2,002,429",
+          "value": 2002429,
+          "is_negative": false,
+          "parse_status": "parsed"
+        },
+        "current_year": {
+          "raw": "608,281",
+          "value": 608281,
+          "is_negative": false,
+          "parse_status": "parsed"
+        }
+      }
+    },
+    {
+      "id": "row_3",
+      "row_index": 3,
+      "label": "受取手形",
+      "label_en": null,
+      "depth": 2,
+      "row_type": "detail",
+      "parent_id": "row_1",
+      "parent_label": "流動資産",
+      "source": {
+        "page": 1,
+        "y": 184.2689971923828,
+        "x0": 88.19999694824219
+      },
+      "values": {
+        "previous_year": {
+          "raw": "20,659",
+          "value": 20659,
+          "is_negative": false,
+          "parse_status": "parsed"
+        },
+        "current_year": {
+          "raw": "26,333",
+          "value": 26333,
+          "is_negative": false,
+          "parse_status": "parsed"
+        }
+      }
+    },
+    {
+      "id": "row_4",
+      "row_index": 4,
+      "label": "売掛金",
+      "label_en": null,
+      "depth": 2,
+      "row_type": "detail",
+      "parent_id": "row_1",
+      "parent_label": "流動資産",
+      "source": {
+        "page": 1,
+        "y": 196.2689971923828,
+        "x0": 88.19999694824219
+      },
+      "values": {
+        "previous_year": {
+          "raw": "2,019,476",
+          "value": 2019476,
+          "is_negative": false,
+          "parse_status": "parsed"
+        },
+        "current_year": {
+          "raw": "884,339",
+          "value": 884339,
+          "is_negative": false,
+          "parse_status": "parsed"
+        }
+      }
+    },
+    {
+      "id": "row_5",
+      "row_index": 5,
+      "label": "電子記録債権",
+      "label_en": null,
+      "depth": 2,
+      "row_type": "detail",
+      "parent_id": "row_1",
+      "parent_label": "流動資産",
+      "source": {
+        "page": 1,
+        "y": 208.2689971923828,
+        "x0": 88.19999694824219
+      },
+      "values": {
+        "previous_year": {
+          "raw": "564,667",
+          "value": 564667,
+          "is_negative": false,
+          "parse_status": "parsed"
+        },
+        "current_year": {
+          "raw": "370,468",
+          "value": 370468,
+          "is_negative": false,
+          "parse_status": "parsed"
+        }
+      }
+    },
+    {
+      "id": "row_6",
+      "row_index": 6,
+      "label": "商品及び製品",
+      "label_en": null,
+      "depth": 2,
+      "row_type": "detail",
+      "parent_id": "row_1",
+      "parent_label": "流動資産",
+      "source": {
+        "page": 1,
+        "y": 220.2689971923828,
+        "x0": 88.19999694824219
+      },
+      "values": {
+        "previous_year": {
+          "raw": "589,488",
+          "value": 589488,
+          "is_negative": false,
+          "parse_status": "parsed"
+        },
+        "current_year": {
+          "raw": "1,019,663",
+          "value": 1019663,
+          "is_negative": false,
+          "parse_status": "parsed"
+        }
+      }
+    },
+    {
+      "id": "row_7",
+      "row_index": 7,
+      "label": "仕掛品",
+      "label_en": null,
+      "depth": 2,
+      "row_type": "detail",
+      "parent_id": "row_1",
+      "parent_label": "流動資産",
+      "source": {
+        "page": 1,
+        "y": 232.2689971923828,
+        "x0": 88.19999694824219
+      },
+      "values": {
+        "previous_year": {
+          "raw": "186,748",
+          "value": 186748,
+          "is_negative": false,
+          "parse_status": "parsed"
+        },
+        "current_year": {
+          "raw": "55,344",
+          "value": 55344,
+          "is_negative": false,
+          "parse_status": "parsed"
+        }
+      }
+    },
+    {
+      "id": "row_8",
+      "row_index": 8,
+      "label": "原材料及び貯蔵品",
+      "label_en": null,
+      "depth": 2,
+      "row_type": "detail",
+      "parent_id": "row_1",
+      "parent_label": "流動資産",
+      "source": {
+        "page": 1,
+        "y": 244.2689971923828,
+        "x0": 88.19999694824219
+      },
+      "values": {
+        "previous_year": {
+          "raw": "370,403",
+          "value": 370403,
+          "is_negative": false,
+          "parse_status": "parsed"
+        },
+        "current_year": {
+          "raw": "136,082",
+          "value": 136082,
+          "is_negative": false,
+          "parse_status": "parsed"
+        }
+      }
+    },
+    {
+      "id": "row_9",
+      "row_index": 9,
+      "label": "短期貸付金",
+      "label_en": null,
+      "depth": 2,
+      "row_type": "detail",
+      "parent_id": "row_1",
+      "parent_label": "流動資産",
+      "source": {
+        "page": 1,
+        "y": 256.2690124511719,
+        "x0": 88.19999694824219
+      },
+      "values": {
+        "previous_year": {
+          "raw": "7,530",
+          "value": 7530,
+          "is_negative": false,
+          "parse_status": "parsed"
+        },
+        "current_year": {
+          "raw": "30,000",
+          "value": 30000,
+          "is_negative": false,
+          "parse_status": "parsed"
+        }
+      }
+    },
+    {
+      "id": "row_10",
+      "row_index": 10,
+      "label": "その他",
+      "label_en": null,
+      "depth": 2,
+      "row_type": "detail",
+      "parent_id": "row_1",
+      "parent_label": "流動資産",
+      "source": {
+        "page": 1,
+        "y": 268.2690124511719,
+        "x0": 88.19999694824219
+      },
+      "values": {
+        "previous_year": {
+          "raw": "105,260",
+          "value": 105260,
+          "is_negative": false,
+          "parse_status": "parsed"
+        },
+        "current_year": {
+          "raw": "246,895",
+          "value": 246895,
+          "is_negative": false,
+          "parse_status": "parsed"
+        }
+      }
+    },
+    {
+      "id": "row_11",
+      "row_index": 11,
+      "label": "貸倒引当金",
+      "label_en": null,
+      "depth": 2,
+      "row_type": "detail",
+      "parent_id": "row_1",
+      "parent_label": "流動資産",
+      "source": {
+        "page": 1,
+        "y": 280.2690124511719,
+        "x0": 88.19999694824219
+      },
+      "values": {
+        "previous_year": {
+          "raw": "△2,979",
+          "value": -2979,
+          "is_negative": true,
+          "parse_status": "parsed"
+        },
+        "current_year": {
+          "raw": "△0",
+          "value": 0,
+          "is_negative": true,
+          "parse_status": "parsed"
+        }
+      }
+    },
+    {
+      "id": "row_12",
+      "row_index": 12,
+      "label": "流動資産合計",
+      "label_en": null,
+      "depth": 2,
+      "row_type": "subtotal",
+      "parent_id": "row_1",
+      "parent_label": "流動資産",
+      "source": {
+        "page": 1,
+        "y": 292.9889831542969,
+        "x0": 88.19999694824219
+      },
+      "values": {
+        "previous_year": {
+          "raw": "5,863,684",
+          "value": 5863684,
+          "is_negative": false,
+          "parse_status": "parsed"
+        },
+        "current_year": {
+          "raw": "3,377,407",
+          "value": 3377407,
+          "is_negative": false,
+          "parse_status": "parsed"
+        }
+      }
+    },
+    {
+      "id": "row_13",
+      "row_index": 13,
+      "label": "固定資産",
+      "label_en": null,
+      "depth": 1,
+      "row_type": "subsection",
+      "parent_id": "row_0",
+      "parent_label": "資産の部",
+      "source": {
+        "page": 1,
+        "y": 305.8290100097656,
+        "x0": 75.23999786376953
+      },
+      "values": {
+        "previous_year": {
+          "raw": null,
+          "value": null,
+          "is_negative": false,
+          "parse_status": "empty"
+        },
+        "current_year": {
+          "raw": null,
+          "value": null,
+          "is_negative": false,
+          "parse_status": "empty"
+        }
+      }
+    },
+    {
+      "id": "row_14",
+      "row_index": 14,
+      "label": "有形固定資産",
+      "label_en": null,
+      "depth": 2,
+      "row_type": "subsection",
+      "parent_id": "row_13",
+      "parent_label": "固定資産",
+      "source": {
+        "page": 1,
+        "y": 317.8290100097656,
+        "x0": 88.19999694824219
+      },
+      "values": {
+        "previous_year": {
+          "raw": null,
+          "value": null,
+          "is_negative": false,
+          "parse_status": "empty"
+        },
+        "current_year": {
+          "raw": null,
+          "value": null,
+          "is_negative": false,
+          "parse_status": "empty"
+        }
+      }
+    },
+    {
+      "id": "row_15",
+      "row_index": 15,
+      "label": "建物及び構築物",
+      "label_en": null,
+      "depth": 3,
+      "row_type": "detail",
+      "parent_id": "row_14",
+      "parent_label": "有形固定資産",
+      "source": {
+        "page": 1,
+        "y": 329.8290100097656,
+        "x0": 101.27999877929688
+      },
+      "values": {
+        "previous_year": {
+          "raw": "2,121,360",
+          "value": 2121360,
+          "is_negative": false,
+          "parse_status": "parsed"
+        },
+        "current_year": {
+          "raw": "1,880,082",
+          "value": 1880082,
+          "is_negative": false,
+          "parse_status": "parsed"
+        }
+      }
+    },
+    {
+      "id": "row_16",
+      "row_index": 16,
+      "label": "減価償却累計額",
+      "label_en": null,
+      "depth": 4,
+      "row_type": "depreciation",
+      "parent_id": "row_15",
+      "parent_label": "建物及び構築物",
+      "source": {
+        "page": 1,
+        "y": 341.8290100097656,
+        "x0": 114.23999786376953
+      },
+      "values": {
+        "previous_year": {
+          "raw": "△1,923,585",
+          "value": -1923585,
+          "is_negative": true,
+          "parse_status": "parsed"
+        },
+        "current_year": {
+          "raw": "△1,640,253",
+          "value": -1640253,
+          "is_negative": true,
+          "parse_status": "parsed"
+        }
+      }
+    },
+    {
+      "id": "row_17",
+      "row_index": 17,
+      "label": "建物及び構築物（純額）",
+      "label_en": null,
+      "depth": 4,
+      "row_type": "net",
+      "parent_id": "row_15",
+      "parent_label": "建物及び構築物",
+      "source": {
+        "page": 1,
+        "y": 354.54901123046875,
+        "x0": 114.23999786376953
+      },
+      "values": {
+        "previous_year": {
+          "raw": "197,775",
+          "value": 197775,
+          "is_negative": false,
+          "parse_status": "parsed"
+        },
+        "current_year": {
+          "raw": "239,828",
+          "value": 239828,
+          "is_negative": false,
+          "parse_status": "parsed"
+        }
+      }
+    },
+    {
+      "id": "row_18",
+      "row_index": 18,
+      "label": "機械装置及び運搬具",
+      "label_en": null,
+      "depth": 3,
+      "row_type": "detail",
+      "parent_id": "row_14",
+      "parent_label": "有形固定資産",
+      "source": {
+        "page": 1,
+        "y": 367.2690124511719,
+        "x0": 101.27999877929688
+      },
+      "values": {
+        "previous_year": {
+          "raw": "4,024,922",
+          "value": 4024922,
+          "is_negative": false,
+          "parse_status": "parsed"
+        },
+        "current_year": {
+          "raw": "2,250,799",
+          "value": 2250799,
+          "is_negative": false,
+          "parse_status": "parsed"
+        }
+      }
+    },
+    {
+      "id": "row_19",
+      "row_index": 19,
+      "label": "減価償却累計額",
+      "label_en": null,
+      "depth": 4,
+      "row_type": "depreciation",
+      "parent_id": "row_18",
+      "parent_label": "機械装置及び運搬具",
+      "source": {
+        "page": 1,
+        "y": 379.2690124511719,
+        "x0": 114.23999786376953
+      },
+      "values": {
+        "previous_year": {
+          "raw": "△3,634,165",
+          "value": -3634165,
+          "is_negative": true,
+          "parse_status": "parsed"
+        },
+        "current_year": {
+          "raw": "△1,914,091",
+          "value": -1914091,
+          "is_negative": true,
+          "parse_status": "parsed"
+        }
+      }
+    },
+    {
+      "id": "row_20",
+      "row_index": 20,
+      "label": "機械装置及び運搬具（純額）",
+      "label_en": null,
+      "depth": 4,
+      "row_type": "net",
+      "parent_id": "row_18",
+      "parent_label": "機械装置及び運搬具",
+      "source": {
+        "page": 1,
+        "y": 391.989013671875,
+        "x0": 114.23999786376953
+      },
+      "values": {
+        "previous_year": {
+          "raw": "390,757",
+          "value": 390757,
+          "is_negative": false,
+          "parse_status": "parsed"
+        },
+        "current_year": {
+          "raw": "336,708",
+          "value": 336708,
+          "is_negative": false,
+          "parse_status": "parsed"
+        }
+      }
+    },
+    {
+      "id": "row_21",
+      "row_index": 21,
+      "label": "土地",
+      "label_en": null,
+      "depth": 3,
+      "row_type": "detail",
+      "parent_id": "row_14",
+      "parent_label": "有形固定資産",
+      "source": {
+        "page": 1,
+        "y": 404.8290100097656,
+        "x0": 101.27999877929688
+      },
+      "values": {
+        "previous_year": {
+          "raw": "768,976",
+          "value": 768976,
+          "is_negative": false,
+          "parse_status": "parsed"
+        },
+        "current_year": {
+          "raw": "705,403",
+          "value": 705403,
+          "is_negative": false,
+          "parse_status": "parsed"
+        }
+      }
+    },
+    {
+      "id": "row_22",
+      "row_index": 22,
+      "label": "リース資産",
+      "label_en": null,
+      "depth": 3,
+      "row_type": "detail",
+      "parent_id": "row_14",
+      "parent_label": "有形固定資産",
+      "source": {
+        "page": 1,
+        "y": 416.8290100097656,
+        "x0": 101.27999877929688
+      },
+      "values": {
+        "previous_year": {
+          "raw": "210,746",
+          "value": 210746,
+          "is_negative": false,
+          "parse_status": "parsed"
+        },
+        "current_year": {
+          "raw": "213,939",
+          "value": 213939,
+          "is_negative": false,
+          "parse_status": "parsed"
+        }
+      }
+    },
+    {
+      "id": "row_23",
+      "row_index": 23,
+      "label": "減価償却累計額",
+      "label_en": null,
+      "depth": 4,
+      "row_type": "depreciation",
+      "parent_id": "row_22",
+      "parent_label": "リース資産",
+      "source": {
+        "page": 1,
+        "y": 428.8290100097656,
+        "x0": 114.23999786376953
+      },
+      "values": {
+        "previous_year": {
+          "raw": "△147,599",
+          "value": -147599,
+          "is_negative": true,
+          "parse_status": "parsed"
+        },
+        "current_year": {
+          "raw": "△172,066",
+          "value": -172066,
+          "is_negative": true,
+          "parse_status": "parsed"
+        }
+      }
+    },
+    {
+      "id": "row_24",
+      "row_index": 24,
+      "label": "リース資産（純額）",
+      "label_en": null,
+      "depth": 4,
+      "row_type": "net",
+      "parent_id": "row_22",
+      "parent_label": "リース資産",
+      "source": {
+        "page": 1,
+        "y": 441.54901123046875,
+        "x0": 114.23999786376953
+      },
+      "values": {
+        "previous_year": {
+          "raw": "63,146",
+          "value": 63146,
+          "is_negative": false,
+          "parse_status": "parsed"
+        },
+        "current_year": {
+          "raw": "41,872",
+          "value": 41872,
+          "is_negative": false,
+          "parse_status": "parsed"
+        }
+      }
+    },
+    {
+      "id": "row_25",
+      "row_index": 25,
+      "label": "建設仮勘定",
+      "label_en": null,
+      "depth": 3,
+      "row_type": "detail",
+      "parent_id": "row_14",
+      "parent_label": "有形固定資産",
+      "source": {
+        "page": 1,
+        "y": 454.2690124511719,
+        "x0": 101.27999877929688
+      },
+      "values": {
+        "previous_year": {
+          "raw": "－",
+          "value": null,
+          "is_negative": false,
+          "parse_status": "dash"
+        },
+        "current_year": {
+          "raw": "4,553",
+          "value": 4553,
+          "is_negative": false,
+          "parse_status": "parsed"
+        }
+      }
+    },
+    {
+      "id": "row_26",
+      "row_index": 26,
+      "label": "その他",
+      "label_en": null,
+      "depth": 3,
+      "row_type": "detail",
+      "parent_id": "row_14",
+      "parent_label": "有形固定資産",
+      "source": {
+        "page": 1,
+        "y": 466.989013671875,
+        "x0": 101.27999877929688
+      },
+      "values": {
+        "previous_year": {
+          "raw": "848,814",
+          "value": 848814,
+          "is_negative": false,
+          "parse_status": "parsed"
+        },
+        "current_year": {
+          "raw": "446,126",
+          "value": 446126,
+          "is_negative": false,
+          "parse_status": "parsed"
+        }
+      }
+    },
+    {
+      "id": "row_27",
+      "row_index": 27,
+      "label": "減価償却累計額",
+      "label_en": null,
+      "depth": 4,
+      "row_type": "depreciation",
+      "parent_id": "row_26",
+      "parent_label": "その他",
+      "source": {
+        "page": 1,
+        "y": 478.989013671875,
+        "x0": 114.23999786376953
+      },
+      "values": {
+        "previous_year": {
+          "raw": "△840,375",
+          "value": -840375,
+          "is_negative": true,
+          "parse_status": "parsed"
+        },
+        "current_year": {
+          "raw": "△421,883",
+          "value": -421883,
+          "is_negative": true,
+          "parse_status": "parsed"
+        }
+      }
+    },
+    {
+      "id": "row_28",
+      "row_index": 28,
+      "label": "その他（純額）",
+      "label_en": null,
+      "depth": 4,
+      "row_type": "net",
+      "parent_id": "row_26",
+      "parent_label": "その他",
+      "source": {
+        "page": 1,
+        "y": 491.8290100097656,
+        "x0": 114.23999786376953
+      },
+      "values": {
+        "previous_year": {
+          "raw": "8,439",
+          "value": 8439,
+          "is_negative": false,
+          "parse_status": "parsed"
+        },
+        "current_year": {
+          "raw": "24,243",
+          "value": 24243,
+          "is_negative": false,
+          "parse_status": "parsed"
+        }
+      }
+    },
+    {
+      "id": "row_29",
+      "row_index": 29,
+      "label": "有形固定資産合計",
+      "label_en": null,
+      "depth": 3,
+      "row_type": "subtotal",
+      "parent_id": "row_14",
+      "parent_label": "有形固定資産",
+      "source": {
+        "page": 1,
+        "y": 504.5490417480469,
+        "x0": 101.27999877929688
+      },
+      "values": {
+        "previous_year": {
+          "raw": "1,429,094",
+          "value": 1429094,
+          "is_negative": false,
+          "parse_status": "parsed"
+        },
+        "current_year": {
+          "raw": "1,352,610",
+          "value": 1352610,
+          "is_negative": false,
+          "parse_status": "parsed"
+        }
+      }
+    },
+    {
+      "id": "row_30",
+      "row_index": 30,
+      "label": "無形固定資産",
+      "label_en": null,
+      "depth": 2,
+      "row_type": "subsection",
+      "parent_id": "row_13",
+      "parent_label": "固定資産",
+      "source": {
+        "page": 1,
+        "y": 517.2689819335938,
+        "x0": 88.19999694824219
+      },
+      "values": {
+        "previous_year": {
+          "raw": null,
+          "value": null,
+          "is_negative": false,
+          "parse_status": "empty"
+        },
+        "current_year": {
+          "raw": null,
+          "value": null,
+          "is_negative": false,
+          "parse_status": "empty"
+        }
+      }
+    },
+    {
+      "id": "row_31",
+      "row_index": 31,
+      "label": "リース資産",
+      "label_en": null,
+      "depth": 3,
+      "row_type": "detail",
+      "parent_id": "row_30",
+      "parent_label": "無形固定資産",
+      "source": {
+        "page": 1,
+        "y": 529.2689819335938,
+        "x0": 101.27999877929688
+      },
+      "values": {
+        "previous_year": {
+          "raw": "34,190",
+          "value": 34190,
+          "is_negative": false,
+          "parse_status": "parsed"
+        },
+        "current_year": {
+          "raw": "21,402",
+          "value": 21402,
+          "is_negative": false,
+          "parse_status": "parsed"
+        }
+      }
+    },
+    {
+      "id": "row_32",
+      "row_index": 32,
+      "label": "その他",
+      "label_en": null,
+      "depth": 3,
+      "row_type": "detail",
+      "parent_id": "row_30",
+      "parent_label": "無形固定資産",
+      "source": {
+        "page": 1,
+        "y": 541.2689819335938,
+        "x0": 101.27999877929688
+      },
+      "values": {
+        "previous_year": {
+          "raw": "10,070",
+          "value": 10070,
+          "is_negative": false,
+          "parse_status": "parsed"
+        },
+        "current_year": {
+          "raw": "14,466",
+          "value": 14466,
+          "is_negative": false,
+          "parse_status": "parsed"
+        }
+      }
+    },
+    {
+      "id": "row_33",
+      "row_index": 33,
+      "label": "無形固定資産合計",
+      "label_en": null,
+      "depth": 3,
+      "row_type": "subtotal",
+      "parent_id": "row_30",
+      "parent_label": "無形固定資産",
+      "source": {
+        "page": 1,
+        "y": 553.9889526367188,
+        "x0": 101.27999877929688
+      },
+      "values": {
+        "previous_year": {
+          "raw": "44,261",
+          "value": 44261,
+          "is_negative": false,
+          "parse_status": "parsed"
+        },
+        "current_year": {
+          "raw": "35,869",
+          "value": 35869,
+          "is_negative": false,
+          "parse_status": "parsed"
+        }
+      }
+    },
+    {
+      "id": "row_34",
+      "row_index": 34,
+      "label": "投資その他の資産",
+      "label_en": null,
+      "depth": 2,
+      "row_type": "subsection",
+      "parent_id": "row_13",
+      "parent_label": "固定資産",
+      "source": {
+        "page": 1,
+        "y": 566.8289794921875,
+        "x0": 88.19999694824219
+      },
+      "values": {
+        "previous_year": {
+          "raw": null,
+          "value": null,
+          "is_negative": false,
+          "parse_status": "empty"
+        },
+        "current_year": {
+          "raw": null,
+          "value": null,
+          "is_negative": false,
+          "parse_status": "empty"
+        }
+      }
+    },
+    {
+      "id": "row_35",
+      "row_index": 35,
+      "label": "投資有価証券",
+      "label_en": null,
+      "depth": 3,
+      "row_type": "detail",
+      "parent_id": "row_34",
+      "parent_label": "投資その他の資産",
+      "source": {
+        "page": 1,
+        "y": 578.8289794921875,
+        "x0": 101.27999877929688
+      },
+      "values": {
+        "previous_year": {
+          "raw": "44,180",
+          "value": 44180,
+          "is_negative": false,
+          "parse_status": "parsed"
+        },
+        "current_year": {
+          "raw": "218,836",
+          "value": 218836,
+          "is_negative": false,
+          "parse_status": "parsed"
+        }
+      }
+    },
+    {
+      "id": "row_36",
+      "row_index": 36,
+      "label": "関係会社株式",
+      "label_en": null,
+      "depth": 3,
+      "row_type": "detail",
+      "parent_id": "row_34",
+      "parent_label": "投資その他の資産",
+      "source": {
+        "page": 1,
+        "y": 590.8289794921875,
+        "x0": 101.27999877929688
+      },
+      "values": {
+        "previous_year": {
+          "raw": "1,123",
+          "value": 1123,
+          "is_negative": false,
+          "parse_status": "parsed"
+        },
+        "current_year": {
+          "raw": "1,123",
+          "value": 1123,
+          "is_negative": false,
+          "parse_status": "parsed"
+        }
+      }
+    },
+    {
+      "id": "row_37",
+      "row_index": 37,
+      "label": "長期貸付金",
+      "label_en": null,
+      "depth": 3,
+      "row_type": "detail",
+      "parent_id": "row_34",
+      "parent_label": "投資その他の資産",
+      "source": {
+        "page": 1,
+        "y": 602.8289794921875,
+        "x0": 101.27999877929688
+      },
+      "values": {
+        "previous_year": {
+          "raw": "－",
+          "value": null,
+          "is_negative": false,
+          "parse_status": "dash"
+        },
+        "current_year": {
+          "raw": "62,000",
+          "value": 62000,
+          "is_negative": false,
+          "parse_status": "parsed"
+        }
+      }
+    },
+    {
+      "id": "row_38",
+      "row_index": 38,
+      "label": "退職給付に係る資産",
+      "label_en": null,
+      "depth": 3,
+      "row_type": "detail",
+      "parent_id": "row_34",
+      "parent_label": "投資その他の資産",
+      "source": {
+        "page": 1,
+        "y": 614.8289794921875,
+        "x0": 101.27999877929688
+      },
+      "values": {
+        "previous_year": {
+          "raw": "18,404",
+          "value": 18404,
+          "is_negative": false,
+          "parse_status": "parsed"
+        },
+        "current_year": {
+          "raw": "16,435",
+          "value": 16435,
+          "is_negative": false,
+          "parse_status": "parsed"
+        }
+      }
+    },
+    {
+      "id": "row_39",
+      "row_index": 39,
+      "label": "その他",
+      "label_en": null,
+      "depth": 3,
+      "row_type": "detail",
+      "parent_id": "row_34",
+      "parent_label": "投資その他の資産",
+      "source": {
+        "page": 1,
+        "y": 626.8289794921875,
+        "x0": 101.27999877929688
+      },
+      "values": {
+        "previous_year": {
+          "raw": "133,361",
+          "value": 133361,
+          "is_negative": false,
+          "parse_status": "parsed"
+        },
+        "current_year": {
+          "raw": "70,967",
+          "value": 70967,
+          "is_negative": false,
+          "parse_status": "parsed"
+        }
+      }
+    },
+    {
+      "id": "row_40",
+      "row_index": 40,
+      "label": "投資その他の資産合計",
+      "label_en": null,
+      "depth": 3,
+      "row_type": "subtotal",
+      "parent_id": "row_34",
+      "parent_label": "投資その他の資産",
+      "source": {
+        "page": 1,
+        "y": 639.5489501953125,
+        "x0": 101.27999877929688
+      },
+      "values": {
+        "previous_year": {
+          "raw": "197,069",
+          "value": 197069,
+          "is_negative": false,
+          "parse_status": "parsed"
+        },
+        "current_year": {
+          "raw": "369,362",
+          "value": 369362,
+          "is_negative": false,
+          "parse_status": "parsed"
+        }
+      }
+    },
+    {
+      "id": "row_41",
+      "row_index": 41,
+      "label": "固定資産合計",
+      "label_en": null,
+      "depth": 2,
+      "row_type": "subtotal",
+      "parent_id": "row_13",
+      "parent_label": "固定資産",
+      "source": {
+        "page": 1,
+        "y": 652.2689819335938,
+        "x0": 88.19999694824219
+      },
+      "values": {
+        "previous_year": {
+          "raw": "1,670,426",
+          "value": 1670426,
+          "is_negative": false,
+          "parse_status": "parsed"
+        },
+        "current_year": {
+          "raw": "1,757,841",
+          "value": 1757841,
+          "is_negative": false,
+          "parse_status": "parsed"
+        }
+      }
+    },
+    {
+      "id": "row_42",
+      "row_index": 42,
+      "label": "資産合計",
+      "label_en": null,
+      "depth": 1,
+      "row_type": "total",
+      "parent_id": "row_0",
+      "parent_label": "資産の部",
+      "source": {
+        "page": 1,
+        "y": 664.9889526367188,
+        "x0": 75.23999786376953
+      },
+      "values": {
+        "previous_year": {
+          "raw": "7,534,110",
+          "value": 7534110,
+          "is_negative": false,
+          "parse_status": "parsed"
+        },
+        "current_year": {
+          "raw": "5,135,249",
+          "value": 5135249,
+          "is_negative": false,
+          "parse_status": "parsed"
+        }
+      }
+    }
+  ],
+  "warnings": [
+    {
+      "row_index": 12,
+      "label": "流動資産合計",
+      "column": "previous_year",
+      "check": "mismatch",
+      "expected": 5863681,
+      "actual": 5863684,
+      "diff": 3
+    },
+    {
+      "row_index": 29,
+      "label": "有形固定資産合計",
+      "column": "previous_year",
+      "check": "mismatch",
+      "expected": 1429093,
+      "actual": 1429094,
+      "diff": 1
+    },
+    {
+      "row_index": 33,
+      "label": "無形固定資産合計",
+      "column": "previous_year",
+      "check": "mismatch",
+      "expected": 44260,
+      "actual": 44261,
+      "diff": 1
+    },
+    {
+      "row_index": 40,
+      "label": "投資その他の資産合計",
+      "column": "previous_year",
+      "check": "mismatch",
+      "expected": 197068,
+      "actual": 197069,
+      "diff": 1
+    },
+    {
+      "row_index": 41,
+      "label": "固定資産合計",
+      "column": "previous_year",
+      "check": "mismatch",
+      "expected": 1670421,
+      "actual": 1670426,
+      "diff": 5
+    },
+    {
+      "row_index": 42,
+      "label": "資産合計",
+      "column": "previous_year",
+      "check": "mismatch",
+      "expected": 7534102,
+      "actual": 7534110,
+      "diff": 8
+    },
+    {
+      "row_index": 12,
+      "label": "流動資産合計",
+      "column": "current_year",
+      "check": "mismatch",
+      "expected": 3377405,
+      "actual": 3377407,
+      "diff": 2
+    },
+    {
+      "row_index": 29,
+      "label": "有形固定資産合計",
+      "column": "current_year",
+      "check": "mismatch",
+      "expected": 1352607,
+      "actual": 1352610,
+      "diff": 3
+    },
+    {
+      "row_index": 33,
+      "label": "無形固定資産合計",
+      "column": "current_year",
+      "check": "mismatch",
+      "expected": 35868,
+      "actual": 35869,
+      "diff": 1
+    },
+    {
+      "row_index": 40,
+      "label": "投資その他の資産合計",
+      "column": "current_year",
+      "check": "mismatch",
+      "expected": 369361,
+      "actual": 369362,
+      "diff": 1
+    },
+    {
+      "row_index": 41,
+      "label": "固定資産合計",
+      "column": "current_year",
+      "check": "mismatch",
+      "expected": 1757836,
+      "actual": 1757841,
+      "diff": 5
+    },
+    {
+      "row_index": 42,
+      "label": "資産合計",
+      "column": "current_year",
+      "check": "mismatch",
+      "expected": 5135241,
+      "actual": 5135249,
+      "diff": 8
+    }
+  ]
+}
